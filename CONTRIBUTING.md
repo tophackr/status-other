@@ -27,7 +27,7 @@ Posts need to be created in the folder [_posts]
 
 ## How to create a status level at the top
 
-When you create an incident, there is a `category`in the incident. When you write a category, such as example or 'example.com', a new status is created at the top. And depending on the last status of the post (danger, warning, success) of this category, there will be the color of the status at the top.
+When you create an incident, there is a `category` in the incident. When you write a category, such as example or 'example.com', a new status is created at the top. And depending on the last status of the post (danger, warning, success) of this category, there will be the color of the status at the top.
 
 ## If you have a problem
 
