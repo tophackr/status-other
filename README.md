@@ -11,4 +11,4 @@ Check [repository page][repository] or [status page][status]
 
 [guide]: CONTRIBUTING.md
 [repository]: https://github.com/tophackr/status-other
-[status]: https://tophackr.github.io/status-other
+[status]: https://tophackr.com/status-other

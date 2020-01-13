@@ -39,4 +39,4 @@ Check [repository page][repository] or [status page][status]
 [success]: _drafts/success.md
 [_posts]: _posts/
 [repository]: https://github.com/tophackr/status-other
-[status]: https://tophackr.github.io/status-other
+[status]: https://tophackr.com/status-other
