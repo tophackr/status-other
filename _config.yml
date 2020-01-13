@@ -2,8 +2,8 @@
 title: tophackr status
 description: Information on the status of tophackr services.
 baseurl: '/status-other'
-url: 'https://tophackr.gitlab.io' # the base hostname & protocol for your site
-repository: 'https://gitlab.com/tophackr/status-other'
+url: 'https://tophackr.github.io' # the base hostname & protocol for your site
+repository: 'https://github.com/tophackr/status-other'
 email: tophackr@icloud.com
 twitter: tophackrstatus
 zone: 'UTC+3'

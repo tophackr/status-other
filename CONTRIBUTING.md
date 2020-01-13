@@ -8,7 +8,7 @@ title: example status
 description: example description to site
 baseurl: '/status' # if you want to connect your own domain to the status of the quotation marks leave blank or remove this line.
 url: 'https://example.com'
-repository: 'https://example.gitlab.com/example-name/example-project'
+repository: 'https://example.github.com/example-name/example-project'
 email: admin@example.com
 twitter: examplestatus
 ```
@@ -38,5 +38,5 @@ Check [repository page][repository] or [status page][status]
 [warning]: _drafts/warning.md
 [success]: _drafts/success.md
 [_posts]: _posts/
-[repository]: https://gitlab.com/tophackr/status-other
-[status]: https://tophackr.gitlab.io/status-other
+[repository]: https://github.com/tophackr/status-other
+[status]: https://tophackr.github.io/status-other

@@ -10,5 +10,5 @@ You can also make a fork of this project for your own purposes, before that read
 Check [repository page][repository] or [status page][status]
 
 [guide]: CONTRIBUTING.md
-[repository]: https://gitlab.com/tophackr/status-other
-[status]: https://tophackr.gitlab.io/status-other
+[repository]: https://github.com/tophackr/status-other
+[status]: https://tophackr.github.io/status-other
